@@ -1,5 +1,6 @@
 {
     "name": "angelillueca/classmenu",
     "type": "library",
-    "require": {}
+    "require": {},
+    "minimum-stability": "dev"
 }
